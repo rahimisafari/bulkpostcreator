@@ -35,7 +35,7 @@ function bulkpc_cmb_html($post)
     </select>
     <hr/>
     <label>
-        <input type="checkbox" name="bulkPostAdd_chk" value="<?php echo $value ?>"/>
+        <input type="checkbox" name="bulkPostAdd_chk" value="1" <?php checked( $value,true, true ); ?>/>
         Bulk add post
     </label>
 
