@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="847be06c-0399-4f3f-b555-4aadfaf5df3d" name="wp_plugin" url="http://localhost:8080">
+        <fileTransfer port="0" mountedRoot="C:\xampp-7\htdocs\achaq\wp-content\plugins" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
